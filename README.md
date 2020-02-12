@@ -1,2 +1,2 @@
 # TariffCompareModel
-Get Tariff Products based consumption 
+Get Tariff Products based on eletricity consumption 
